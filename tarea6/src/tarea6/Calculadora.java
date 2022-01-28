@@ -29,4 +29,7 @@ public class Calculadora {
         if (num2==0) throw new ArithmeticException("NO PUEDES DIVIDIR POR CERO, MELON");
         return num1/num2;
     }
+
+	private int valor1;
+	private int valor2;
 }

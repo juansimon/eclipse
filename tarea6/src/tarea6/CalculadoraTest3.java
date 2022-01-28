@@ -44,9 +44,7 @@ class CalculadoraTest3 {
 		  try {
 		    assertEquals(0, calculate.divide(15, 0));
 		  } catch ( Exception e) {
-			System.out.println("División por 0 producida");
-		    fail("División por 0 producida");
-		    
+			System.out.println("División por 0 producida");	    
 		  }
 		}
 

@@ -1,4 +1,4 @@
-package tarea6;
+package tarea6; // 28/01/22
 
 
 import java.util.Scanner;
